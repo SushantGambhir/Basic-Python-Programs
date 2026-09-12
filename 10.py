@@ -10,3 +10,8 @@ n = int(input('Enter a number: '))
 #     sum+=i
 
 # print(sum)
+
+# Optimal O(1) solution
+
+sum = n*(n+1)//2
+print(sum)
