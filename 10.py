@@ -2,9 +2,11 @@
 
 n = int(input('Enter a number: '))
 
-sum = 0
+# Brute force O(n) solution
 
-for i in range(n+1):
-    sum+=i
+# sum = 0
 
-print(sum)
+# for i in range(n+1):
+#     sum+=i
+
+# print(sum)
